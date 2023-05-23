@@ -4,6 +4,9 @@
 		<child name="Aula_1" key="{AD8027BC-5501-4C53-B9B2-B1C827FF1D9B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
 			<data path="Aula_1.sd" />
 		</child>
+		<child name="Aula2" key="{4183264C-5E65-410E-A2E6-99CF46EFF8A6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Aula2.sd" />
+		</child>
 	</children>
 	<folders />
 </Root>

@@ -1,0 +1,30 @@
+﻿procedure variavel;
+var
+  palavra : string;
+  valor : integer;
+begin
+  palavra := 'Boa tarde!';
+  valor := 10;
+  Log.Message(palavra);
+  Log.Message(valor);
+end;
+
+procedure inteiro;
+var 
+  valor1, valor2, total : integer;
+begin
+  valor1 := 500;
+  valor2 := 1000;
+  total := valor1 + valor2;
+  Log.Message(total);
+end;
+
+procedure exemplostring;
+var 
+  valor1, valor2, total : string;
+begin
+  valor1 := 'bom';
+  valor2 := 'dia';
+  total := valor1 + ' ' + valor2 + '! tudo bem...';
+  Log.Message(total);
+end;

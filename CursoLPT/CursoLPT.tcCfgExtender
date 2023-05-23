@@ -25,9 +25,13 @@
 				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{AD8027BC-5501-4C53-B9B2-B1C827FF1D9B}"/>
+				<Prp name="activity" type="S" value="{4183264C-5E65-410E-A2E6-99CF46EFF8A6}"/>
 			</Node>
-			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
+			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
+				<Node name="{b0337ef7-8a18-4de3-b920-69f04e49d56b}">
+					<Prp name="hash" type="I" value="1"/>
+				</Node>
+			</Node>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
 				<Node name="workspace"/>
 			</Node>
@@ -47,6 +51,7 @@
 			</Node>
 			<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}">
 				<Node name="{00000000-0000-0000-0000-000000000000}">
+					<Node name="{4183264c-5e65-410e-a2e6-99cf46eff8a6}"/>
 					<Node name="{ad8027bc-5501-4c53-b9b2-b1c827ff1d9b}"/>
 				</Node>
 			</Node>
@@ -71,6 +76,9 @@
 						</Node>
 						<Node name="testedapps"/>
 					</Node>
+				</Node>
+				<Node name="cursolpt logs">
+					<Node name="cursolpt logs"/>
 				</Node>
 			</Node>
 		</Node>
