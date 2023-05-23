@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{8279B605-7C5D-4DA8-8FB1-9A8F30662897}">
+	<children>
+		<child name="CursoLPT" key="{58AAF9A7-827C-49D1-923F-ED6FD1819982}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="CursoLPT\CursoLPT.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{64834882-F887-4A66-86D8-B82BF3B121FF}">
+		<children>
+			<testItem key="{58AAF9A7-827C-49D1-923F-ED6FD1819982}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{B4727C69-576E-4FA6-9D19-A72BC2AD3A81}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{01DA1392-FAC7-4573-AAD4-392BC8BBFD31}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>

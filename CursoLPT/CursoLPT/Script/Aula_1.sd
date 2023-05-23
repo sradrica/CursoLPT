@@ -1,0 +1,4 @@
+﻿procedure aula1;
+begin
+  Log.Message('Hello World!!');
+end;
